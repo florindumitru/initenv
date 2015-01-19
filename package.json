@@ -1,0 +1,26 @@
+{
+  "name": "initdev",
+  "version": "0.0.0",
+  "description": "Initial development enviroment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/florindumitru/initenv.git"
+  },
+  "author": "Florin Dumitru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florindumitru/initenv/issues"
+  },
+  "homepage": "https://github.com/florindumitru/initenv",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.0",
+    "browser-sync": "^1.9.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
